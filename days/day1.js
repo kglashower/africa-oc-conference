@@ -1,6 +1,6 @@
 // Day 1 — Tuesday 13 October 2026
 // Sessions: Devotion (Kyle), OC training "why" and "what" (Cameron),
-// Ministry assets & stewardship (Sarah), CRM / Workbooks vs Hopeworks (Kyle).
+// Ministry assets & stewardship (Sarah), CRM / Workbooks vs HopeWorks (Kyle).
 //
 // Each question: { q: {en, fr}, a: [ {en, fr} x4 ], correct: index into a }
 // The game shuffles question order and answer order automatically.
@@ -99,8 +99,8 @@ window.QUIZ_DAYS.push({
       correct: 0
     },
     {
-      q: { en: "Which question CANNOT be answered from Hopeworks and belongs in the CRM (Workbooks)?",
-           fr: "Quelle question ne peut PAS être répondue dans Hopeworks et relève du CRM (Workbooks) ?" },
+      q: { en: "Which question CANNOT be answered from HopeWorks and belongs in the CRM (Workbooks)?",
+           fr: "Quelle question ne peut PAS être répondue dans HopeWorks et relève du CRM (Workbooks) ?" },
       a: [
         { en: "Which church leaders we equipped are now discipling children?", fr: "Quels responsables d'église formés font maintenant des disciples parmi les enfants ?" },
         { en: "How many children received Scripture last quarter?", fr: "Combien d'enfants ont reçu les Écritures le trimestre dernier ?" },

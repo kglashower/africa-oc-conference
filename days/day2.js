@@ -31,8 +31,8 @@ window.QUIZ_DAYS.push({
       correct: 0
     },
     {
-      q: { en: "What is the last day to enter a 2026 disbursement in Hopeworks?",
-           fr: "Quel est le dernier jour pour saisir un décaissement 2026 dans Hopeworks ?" },
+      q: { en: "What is the last day to enter a 2026 disbursement in HopeWorks?",
+           fr: "Quel est le dernier jour pour saisir un décaissement 2026 dans HopeWorks ?" },
       a: [
         { en: "November 27", fr: "27 novembre" },
         { en: "December 4", fr: "4 décembre" },

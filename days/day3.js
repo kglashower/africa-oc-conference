@@ -20,8 +20,8 @@ window.QUIZ_DAYS.push({
       correct: 0
     },
     {
-      q: { en: "A shipment has arrived but the books don't show in the warehouse in Hopeworks. What is the most common cause?",
-           fr: "Une expédition est arrivée mais les livres n'apparaissent pas dans l'entrepôt dans Hopeworks. Quelle est la cause la plus fréquente ?" },
+      q: { en: "A shipment has arrived but the books don't show in the warehouse in HopeWorks. What is the most common cause?",
+           fr: "Une expédition est arrivée mais les livres n'apparaissent pas dans l'entrepôt dans HopeWorks. Quelle est la cause la plus fréquente ?" },
       a: [
         { en: "The arrival (receive) date was never entered on the shipment form", fr: "La date d'arrivée (réception) n'a jamais été saisie sur le formulaire d'expédition" },
         { en: "The printer has not been paid", fr: "L'imprimeur n'a pas été payé" },
@@ -67,7 +67,7 @@ window.QUIZ_DAYS.push({
       q: { en: "What is the fastest way to find the exact product version in Hope Gallery when filling the planning tool?",
            fr: "Quel est le moyen le plus rapide de trouver la version exacte d'un produit dans Hope Gallery en remplissant l'outil de planification ?" },
       a: [
-        { en: "Paste the ISBN from Hopeworks into the search bar", fr: "Coller l'ISBN depuis Hopeworks dans la barre de recherche" },
+        { en: "Paste the ISBN from HopeWorks into the search bar", fr: "Coller l'ISBN depuis HopeWorks dans la barre de recherche" },
         { en: "Browse the Dropbox folders", fr: "Parcourir les dossiers Dropbox" },
         { en: "Email JP", fr: "Envoyer un e-mail à JP" },
         { en: "Scroll the Africa collection", fr: "Faire défiler la collection Afrique" }
@@ -78,7 +78,7 @@ window.QUIZ_DAYS.push({
       q: { en: "Cameron described the new Hope Go app as a rebuilt version of which earlier app?",
            fr: "Cameron a décrit la nouvelle application Hope Go comme une version refaite de quelle ancienne application ?" },
       a: [
-        { en: "TESPA", fr: "TESPA" },
+        { en: "TESFA", fr: "TESFA" },
         { en: "Story Gate", fr: "Story Gate" },
         { en: "Workbooks", fr: "Workbooks" },
         { en: "Bynder Express", fr: "Bynder Express" }
@@ -97,8 +97,8 @@ window.QUIZ_DAYS.push({
       correct: 0
     },
     {
-      q: { en: "Which two documents must be attached when loading a new beneficiary in Hopeworks?",
-           fr: "Quels deux documents doivent être joints lors de la saisie d'un nouveau bénéficiaire dans Hopeworks ?" },
+      q: { en: "Which two documents must be attached when loading a new beneficiary in HopeWorks?",
+           fr: "Quels deux documents doivent être joints lors de la saisie d'un nouveau bénéficiaire dans HopeWorks ?" },
       a: [
         { en: "Master grant agreement and wire transfer form", fr: "Accord-cadre de subvention et formulaire de virement" },
         { en: "Passport copy and CV", fr: "Copie du passeport et CV" },
